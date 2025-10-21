@@ -3,6 +3,7 @@
 This repository contains code regarding alterations made to the [ColloSSL framework](https://github.com/akhilmathurs/collossl) within the scope of the thesis. 
 
 For a detailed description how to setup the framework, refer to the [original GitHub repository](https://github.com/akhilmathurs/collossl). 
+
 Notes: This repository contains a [conda environment](environment.yml) used for all experiments during my research. Additionally, two python scripts are provided for the creation of a [custom version](create_pamap2.py) of the [PaMap2](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring) dataset and the generation of a list of [execution commands](generate_runs_list.py) that were used to run the experiments analyzed in my thesis.
 
 # Alterations:
